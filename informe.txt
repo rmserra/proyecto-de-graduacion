@@ -1,0 +1,26 @@
+
+NOMBRE DEL EXPERIMENTO: Mi_experimento
+
+Datos del nervio:
+        * Diametro: 500.0 micrometros
+        * Longitud: 50000 micrometros
+        * Cantidad de fibras: 4000
+        * Posicion del centro del nervio: [0,0]
+        * Conductividad transversal: None
+        * Porcentajde de cobertura del electrodo: 100
+        * Metodo de poblacion: uniforme_con_superposicion
+        * Distancia entre nodos promedio: 2000
+        
+Datos de los electrodos:
+        * Cantidad de electrodos: 2
+        * Ubicacion de electrodos: [[0, -250, 10000], [0, -250, 20000]]
+        * Tipos de electrodos: ['punto', 'punto']
+        * Grosor electrodos: [0, 0]
+        * Zonas de influencia: [4000, 4000]
+        
+Datos del estimulador:
+        * Tipo de estimulo: sin_nombre
+        * Frecuencia de muestreo: 100000 Hz
+        * Tiempo de estimulo: 0.005 segundos
+        * Tiempo de registro : 0.05 segundos
+        
